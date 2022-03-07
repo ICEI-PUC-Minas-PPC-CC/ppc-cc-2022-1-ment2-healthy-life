@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# HEALTHY LIFE
 
 `PPC-CC: PUC Poços de Caldas - Ciência da Computação`
 `Disciplina: NOME DA DISCIPLINA`
@@ -6,14 +6,14 @@
 
 ## Integrantes
 
-- Jeff Bezos
-- Bill Gates
-- Larry Ellison
-- Mark Zuckerberg
+- Marcos Vinícius De Lima Silva
+- Lucas Dalavale Fabretti
+- Bruno
+- Luis Guilherme
 
 ## Professor
 
-- Mestre Yoda
+- Will
 
 # Documentação
 
