@@ -9,7 +9,7 @@
 - Marcos Vinícius De Lima Silva
 - Lucas Dalavale Fabretti
 - Bruno Eduardo da Silva
-- Luis Guilherme Gomes Ferreira Rossi
+- Luís Guilherme Gomes Ferreira Rossi
 
 ## Professor
 
