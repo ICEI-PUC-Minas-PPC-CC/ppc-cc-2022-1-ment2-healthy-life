@@ -7,8 +7,8 @@
 ## Integrantes
 
 - Marcos Vinícius De Lima Silva
-- Lucas Dalavale Fabretti
-- Bruno Eduardo da Silva
+- Lucas Dalavale Fabretti (14)996600451
+- Bruno Eduardo da Silva 
 - Luís Guilherme Gomes Ferreira Rossi
 
 ## Professor
