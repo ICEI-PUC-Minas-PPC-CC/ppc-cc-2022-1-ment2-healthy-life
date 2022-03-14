@@ -8,7 +8,7 @@
 
 - Marcos Vinícius De Lima Silva (35)998526904
 - Lucas Dalavale Fabretti (14)996600451
-- Bruno Eduardo da Silva 
+- Bruno Eduardo da Silva (35)98707-3842
 - Luís Guilherme Gomes Ferreira Rossi
 
 ## Professor
