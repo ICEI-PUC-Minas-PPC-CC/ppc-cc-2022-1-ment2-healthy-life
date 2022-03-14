@@ -1,6 +1,6 @@
 # Introdução
 
-Texto descritivo com a visão geral do projeto abordado. Inclui o contexto, o problema, os objetivos, a justificativa e o público-alvo do projeto.
+Nesse projeto criaremos um aplicativo para ajudar as pessoas a se conscientizarem para uma vida mais saudavel, nosso objetivo é melhorar a qualidade de vida de pessoas de toda idade por meio de uma alimentação saudavel e pratica de exercicios fisicos. Abordaremos os problemas causados pela falta dessas praticas saudaveis e o objetivo de resolução do nosso projeto por meio de um software.
 
 ## Problema
 Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
