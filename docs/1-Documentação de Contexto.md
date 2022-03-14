@@ -20,7 +20,7 @@ Nosso objetivo neste projeto é criar um software que seja benéfico e traga uma
 
 ## Justificativa
 
-Nós escolhemos esse projeto pelo motivo de que a atividade física, sono regulado e boa alimentação deveriam ser hábitos na vida de todas as pessoas; Todos esses hábitos atingem diretamente na concetração, capacidade cognitiva, melhor funcionamento corporal e também influenciam no humor das pessoas...(ainda não acabei)
+Nós escolhemos esse projeto pelo motivo de que a atividade física, sono regulado e boa alimentação, ou seja, qualidade de vida, deveriam ser hábitos na vida de todas as pessoas; Todos esses hábitos atingem diretamente na concetração, capacidade cognitiva, melhor funcionamento corporal, influenciam no humor das pessoas e muitos outros aspectos. De forma resumida, escolhemos esse projeto porque a quantidade de pessoas que não tem uma boa qualidade de vida, só no Brasil, é de menos de 45% para homens e 35% para mulheres, de acordo com o IBGE de 2021. Isso nos motivou para tentar ajudar de alguma maneira as pessoas, conscientizando sobre como ter uma vida mais saudável e produtiva.
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
