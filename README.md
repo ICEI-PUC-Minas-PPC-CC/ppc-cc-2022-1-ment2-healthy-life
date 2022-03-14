@@ -6,7 +6,7 @@
 
 ## Integrantes
 
-- Marcos Vinícius De Lima Silva
+- Marcos Vinícius De Lima Silva (35)998526904
 - Lucas Dalavale Fabretti (14)996600451
 - Bruno Eduardo da Silva 
 - Luís Guilherme Gomes Ferreira Rossi
