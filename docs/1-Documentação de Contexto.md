@@ -20,9 +20,7 @@ Nosso objetivo neste projeto é criar um software que seja benéfico e traga uma
 
 ## Justificativa
 
-Descreva a importância ou a motivação para trabalhar com esta aplicação que você escolheu. Indique as razões pelas quais você escolheu seus objetivos específicos ou as razões para aprofundar em certos aspectos do software.
-
-O grupo de trabalho pode fazer uso de questionários, entrevistas e dados estatísticos, que podem ser apresentados, com o objetivo de esclarecer detalhes do problema que será abordado pelo grupo.
+Nós escolhemos esse projeto pelo motivo de que a atividade física, sono regulado e boa alimentação deveriam ser hábitos na vida de todas as pessoas; Todos esses hábitos atingem diretamente na concetração, capacidade cognitiva, melhor funcionamento corporal e também influenciam no humor das pessoas...(ainda não acabei)
 
 > **Links Úteis**:
 > - [Como montar a justificativa](https://guiadamonografia.com.br/como-montar-justificativa-do-tcc/)
