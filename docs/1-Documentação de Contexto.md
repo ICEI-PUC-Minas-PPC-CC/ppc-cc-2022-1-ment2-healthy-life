@@ -16,12 +16,7 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
-
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
- 
-> **Links Úteis**:
-> - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
+Nosso objetivo neste projeto é criar um software que seja benéfico e traga uma evolução para a saúde mental e fisica do usuario, afim de trazer boas práticas e rotinas saudaveis ao mesmo. Nos basearemos bastante na neurociencia, onde existem diversos estudos comprovados que melhoram a sua saúde fisica / mental, trazendo como consequencia uma melhor qualidade de vida e produtividade no dia a dia.
 
 ## Justificativa
 
