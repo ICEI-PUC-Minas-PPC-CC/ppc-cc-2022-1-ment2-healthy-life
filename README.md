@@ -13,7 +13,7 @@
 
 ## Professor
 
-- Will
+- Will Ricardo dos Santos Machado
 
 ## Contato
 
