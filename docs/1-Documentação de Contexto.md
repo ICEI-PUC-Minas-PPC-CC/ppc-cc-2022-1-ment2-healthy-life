@@ -3,16 +3,8 @@
 Nesse projeto criaremos um aplicativo para ajudar as pessoas a se conscientizarem para uma vida mais saudavel, nosso objetivo é melhorar a qualidade de vida de pessoas de todas as idades por meio de uma alimentação saudável e prática de exercicios fisicos. Abordaremos os problemas causados pela falta dessas práticas saudáveis e o objetivo de resolução do nosso projeto, por meio de um software.
 
 ## Problema
-Nesse momento você deve apresentar o problema que a sua aplicação deve  resolver. No entanto, não é a hora de comentar sobre a aplicação.
 
-Descreva também o contexto em que essa aplicação será usada, se  houver: empresa, tecnologias, etc. Novamente, descreva apenas o que de  fato existir, pois ainda não é a hora de apresentar requisitos  detalhados ou projetos.
-
-Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thinking, que permite um olhar de ponta a ponta para o problema.
-
-> **Links Úteis**:
-> - [Objetivos, Problema de pesquisa e Justificativa](https://medium.com/@versioparole/objetivos-problema-de-pesquisa-e-justificativa-c98c8233b9c3)
-> - [Matriz Certezas, Suposições e Dúvidas](https://medium.com/educa%C3%A7%C3%A3o-fora-da-caixa/matriz-certezas-suposi%C3%A7%C3%B5es-e-d%C3%BAvidas-fa2263633655)
-> - [Brainstorming](https://www.euax.com.br/2018/09/brainstorming/)
+O problema em si, consiste no fato de que as pessoas não entendem o quanto um planejameneto pode fazer seu dia ser bem mais produtivo e  saudável. Conseguir tempo para tudo o que queremos fazer é, principalmente nos dias de hoje, uma das maiores dificuldades para muitas pessoas. O hábito de ter o seu dia organizado pode te levar a fazer práticas mais saudáveis, uma vez que com as tarefas organizadas, sobra mais tempo para praticar exercícios físicos, ou até mesmo lazer.
 
 ## Objetivos
 
