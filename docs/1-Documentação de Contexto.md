@@ -4,7 +4,9 @@ Nesse projeto criaremos um aplicativo para ajudar as pessoas a se conscientizare
 
 ## Problema
 
-O problema em si, consiste no fato de que as pessoas não entendem o quanto um planejameneto pode fazer seu dia ser bem mais produtivo e  saudável. Conseguir tempo para tudo o que queremos fazer é, principalmente nos dias de hoje, uma das maiores dificuldades para muitas pessoas. O hábito de ter o seu dia organizado pode te levar a fazer práticas mais saudáveis, uma vez que com as tarefas organizadas, sobra mais tempo para praticar exercícios físicos, ou até mesmo lazer.
+O problema em si, consiste no fato das pessoas pensarem que o sono não é algo que agrega na sua disposição do dia-a-dia. Porém, esse é um pensamento errôneo! Uma boa noite de sono pode fazer com que seu dia seja EXTREMAMENTE mais produtivo.
+
+Você já deve ter ouvido alguém dizer que “fica ótimo” com apenas 4 ou 5 horas de sono. Essa pessoa pode ser até famosa: a revista Forbes publicou o regime de sono de pessoas de sucesso, que sugere exatamente isso. Mas um estudo mostra que o déficit de sono é mais discreto do que você imagina – e dormir 6 horas por noite já é suficiente para causar problemas. Dez dias dormindo 6 horas, segundo a pesquisa, causa o mesmo efeito na sua cognição do que passar uma noite inteira acordado: diminui reflexos e velocidade de reação e atrapalha até a capacidade de interpretar textos.
 
 ## Objetivos
 
