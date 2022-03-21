@@ -10,6 +10,9 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 Lucas Macedo tem 22 anos, sofre com insônia e não consegue dormir bem, isso afeta ele em diversas atividades do seu dia, pois está sempre mais cansado que o normal. Ele procura ajuda pra resolver seu problema, pois acabou de se formar e pretende ingressar no mercado de trabalho, quer evitar que a insônia o atrapalhe no seu emprego.
 
+Luís Jacinto Pinto tem 49 anos, se queixa do mal humor ao longo do dia, relata também muito estresse e irritabilidade no cotidiano, procurando saber o que pode estar causando isto. Ele busca um melhor humor e disposição no seu dia a dia para realizar suas tarefas diárias sem o desgastar como atualmente.
+
+
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
 > **Links Úteis**:
