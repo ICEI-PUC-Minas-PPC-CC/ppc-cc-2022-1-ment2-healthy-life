@@ -8,7 +8,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 ## Personas
 
-Pedro Paulo tem 26 anos, é arquiteto recém-formado e autônomo. Pensa em se desenvolver profissionalmente através de um mestrado fora do país, pois adora viajar, é solteiro e sempre quis fazer um intercâmbio. Está buscando uma agência que o ajude a encontrar universidades na Europa que aceitem alunos estrangeiros.
+Lucas Macedo tem 22 anos, sofre com insônia e não consegue dormir bem, isso afeta ele em diversas atividades do seu dia, pois está sempre mais cansado que o normal. Ele procura ajuda pra resolver seu problema, pois acabou de se formar e pretende ingressar no mercado de trabalho, quer evitar que a insônia o atrapalhe no seu emprego.
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
