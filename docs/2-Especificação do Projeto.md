@@ -31,6 +31,7 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
+|--------------------|------------------------------------|----------------------------------------|
 |EU COMO LUCAS MACEDO| QUERO/PRECISO REGULAR O SONO       | PARA MELHORAR A QUALIDADE DE VIDA   |
 |EU COMO LUÍS PEREIRA| QUERO/PRECISO MELHORAR O HUMOR     | PARA MELHORAR O TEMPERAMENTO        |
 |EU COMO MAITÊ BRAGA | QUERO/PRECISO MELHORAR A DISPOSIÇÃO| PARA MELHORAR A DISPOSIÇÃO          |
