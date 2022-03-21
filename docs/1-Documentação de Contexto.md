@@ -1,6 +1,6 @@
 # Introdução
 
-Nesse projeto criaremos um aplicativo para ajudar as pessoas a se conscientizarem para uma vida mais saudavel, nosso objetivo é melhorar a qualidade de vida de pessoas de todas as idades por meio de uma alimentação saudável e prática de exercicios fisicos. Abordaremos os problemas causados pela falta dessas práticas saudáveis e o objetivo de resolução do nosso projeto, por meio de um software.
+Nesse projeto criaremos um aplicativo para ajudar as pessoas a se conscientizarem sobre a importancia do sono para uma vida mais saudavel, nosso objetivo é melhorar a qualidade de vida de pessoas de todas as idades que sofrem com insônia e não conseguem dormir bem. Abordaremos os problemas causados pela falta do sono e o objetivo de resolução do nosso projeto, por meio de um site que ajudara as pessoas.
 
 ## Problema
 
@@ -16,4 +16,4 @@ Nós escolhemos esse projeto pelo motivo de que a atividade física, sono regula
 
 ## Público-Alvo
 
-Nosso publico alvo são pessoas de todas as idades que se renderam ao sedentárismo e abandono das práticas saudáveis, porém tem um foco maior em pessoas de maior idade, pois segundo dados, o sedentarismo aumenta conforme a faixa etaria também aumenta, uma das causas é a chegada do mercado de trabalho.
+Nosso publico alvo são pessoas de todas as idades que sofrem de insonia, porém dados dizem que insônia é mais comum nas mulheres. Acredita-se que a mulher tenha predisposição genética a esse distúrbio. A insônia afeta mais de 73 milhões de brasileiros.
