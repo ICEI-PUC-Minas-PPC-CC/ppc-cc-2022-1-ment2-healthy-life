@@ -12,6 +12,8 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 2 - Luís Jacinto Pereira tem 49 anos, se queixa do mal humor ao longo do dia, relata também muito estresse e irritabilidade no cotidiano, procurando saber o que pode estar causando isto. Ele busca um melhor humor e disposição no seu dia a dia para realizar suas tarefas diárias sem o desgastar como atualmente.
 
+3 - Maitê Braga da Silva tem 12 anos, reclama de pouco apetite e demora muito tempo para dormir, ou seja, insônia; está indisposta casualmente, 3/4 dias na semana. Ela tem esses problemas desde os 10 anos e vem buscando atravéz de medicamentos e consultas médicas, uma melhora na sua qualidade de vida.
+
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
 
