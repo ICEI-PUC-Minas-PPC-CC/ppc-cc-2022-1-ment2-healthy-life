@@ -12,7 +12,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 2 - Luís Jacinto Pereira tem 49 anos, se queixa do mal humor ao longo do dia, relata também muito estresse e irritabilidade no cotidiano, procurando saber o que pode estar causando isto. Ele busca um melhor humor e disposição no seu dia a dia para realizar suas tarefas diárias sem o desgastar como atualmente.
 
-3 - Maitê Braga da Silva tem 12 anos, reclama de pouco apetite e demora muito tempo para dormir, ou seja, insônia; está indisposta casualmente, 3/4 dias na semana. Ela tem esses problemas desde os 10 anos e vem buscando atravéz de medicamentos e consultas médicas, uma melhora na sua qualidade de vida.
+3 - Maitê Braga da Silva tem 12 anos, reclama que não tem apetite e demora muito tempo para dormir, ou seja, insônia, também está casualmente indisposta, 3/4 dias na semana. Ela tem esses problemas desde os 10 anos e vem buscando, através de medicamentos e consultas médicas, uma melhora na sua qualidade de vida.
 
 
 Enumere e detalhe as personas da sua solução. Para tanto, baseie-se tanto nos documentos disponibilizados na disciplina e/ou nos seguintes links:
@@ -31,7 +31,9 @@ Lembre-se que você deve ser enumerar e descrever precisamente e personalizada t
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE` |PARA ... `MOTIVO/VALOR`                 |
+|EU COMO LUCAS MACEDO| QUERO/PRECISO REGULAR O SONO       | PARA MELHORAR A QUALIDADE DE VIDA   |
+|EU COMO LUÍS PEREIRA| QUERO/PRECISO MELHORAR O HUMOR     | PARA MELHORAR O TEMPERAMENTO        |
+|EU COMO MAITÊ BRAGA | QUERO/PRECISO MELHORAR A DISPOSIÇÃO| PARA MELHORAR A DISPOSIÇÃO          |
 |--------------------|------------------------------------|----------------------------------------|
 |Usuário do sistema  | Registrar minhas tarefas           | Não esquecer de fazê-las               |
 |Administrador       | Alterar permissões                 | Permitir que possam administrar contas |
