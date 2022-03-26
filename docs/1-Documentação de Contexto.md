@@ -10,7 +10,7 @@ Você já deve ter ouvido alguém dizer que “fica ótimo” com apenas 4 ou 5 
 
 ## Objetivos
 
-Nosso objetivo neste projeto é criar um software que seja benéfico e traga uma evolução para a saúde mental e fisica do usuario, afim de trazer boas práticas e rotinas saudaveis ao mesmo. Nos basearemos bastante na neurociencia, onde existem diversos estudos comprovados que melhoram a sua saúde fisica / mental, trazendo como consequencia uma melhor qualidade de vida e produtividade no dia a dia.
+Nosso objetivo neste projeto é criar um site que traga dicas e recomendações sobre o sono ao usuario, afim de trazer boas práticas ao mesmo. Nos basearemos bastante na neurociencia, onde existem diversos estudos comprovados que melhoram a sua saúde fisica / mental através do sono, trazendo como consequencia uma melhor qualidade de vida e produtividade no dia a dia.
 
 ## Justificativa
 
