@@ -46,9 +46,10 @@ As tabelas que se seguem apresentam os requisitos funcionais e não funcionais q
 
 |ID    | Descrição do Requisito  | Prioridade |
 |------|-----------------------------------------|----|
-|RF-001| Permitir que o usuário cadastre tarefas | ALTA | 
-|RF-002| Emitir um relatório de tarefas no mês   | MÉDIA |
-
+|RF-001| CADASTRO DE USUARIOS | ALTA | 
+|RF-002| IDENTIFICAR O PROBLEMA NA ROTINA DO USUARIO   | ALTA |
+|RF-003| DICAS PARA MELHORAR O HABITO DE SONO DO USUARIO | MEDIA |
+|RF-004| CONSULTORIA PROFISSIONAL PARA USUARIO ( RECURSO PREMIUM ) | BAIXA |
 
 ### Requisitos não Funcionais
 
