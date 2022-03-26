@@ -10,7 +10,7 @@ Apresente uma visão geral do que será abordado nesta parte do documento, enume
 
 1 - Lucas Macedo tem 22 anos, sofre com insônia e não consegue dormir bem, isso afeta ele em diversas atividades do seu dia, pois está sempre mais cansado que o normal. Ele procura ajuda pra resolver seu problema, pois acabou de se formar e pretende ingressar no mercado de trabalho, quer evitar que a insônia o atrapalhe no seu emprego.
 
-2 - Luís Jacinto Pereira tem 49 anos, se queixa do mal humor ao longo do dia, relata também muito estresse e irritabilidade no cotidiano, procurando saber o que pode estar causando isto. Ele busca um melhor humor e disposição no seu dia a dia para realizar suas tarefas diárias sem o desgastar como atualmente.
+2 - Luís Jacinto Pereira tem 49 anos, se queixa do mal humor ao longo do dia, relata também muito estresse e irritabilidade no cotidiano, procurando saber o que pode estar causando isto. Ele busca um melhor humor e disposição no seu dia a dia para realizar suas tarefas diárias sem que se sinta tão cansado como vêm ocorrendo ultimamente.
 
 3 - Maitê Braga da Silva tem 12 anos, reclama que não tem apetite e demora muito tempo para dormir, ou seja, insônia, também está casualmente indisposta, 3/4 dias na semana. Ela tem esses problemas desde os 10 anos e vem buscando, através de medicamentos e consultas médicas, uma melhora na sua qualidade de vida.
 
