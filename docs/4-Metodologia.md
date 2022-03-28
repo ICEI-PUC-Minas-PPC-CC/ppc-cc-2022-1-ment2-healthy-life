@@ -42,9 +42,13 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 ### Divisão de Papéis
 
 Scrum:
+
 Nossa divisão de papéis foi efetuada da seguinte forma:
+
 Product Owner : Luís Guilherme Gomes Ferreira Rossi
+
 Scrum Master: Marcos Vinícius De Lima Silva e Bruno Eduardo da Silva.
+
 Product Backlog: Lucas Dalavale Fabretti.
 
 ### Processo
