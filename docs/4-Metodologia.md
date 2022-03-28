@@ -41,12 +41,11 @@ Discuta como a configuração do projeto foi feita na ferramenta de versionament
 
 ### Divisão de Papéis
 
-Apresente a divisão de papéis entre os membros do grupo.
-
-> **Links Úteis**:
-> - [11 Passos Essenciais para Implantar Scrum no seu 
-> Projeto](https://mindmaster.com.br/scrum-11-passos/)
-> - [Scrum em 9 minutos](https://www.youtube.com/watch?v=XfvQWnRgxG0)
+Scrum:
+Nossa divisão de papéis foi efetuada da seguinte forma:
+Product Owner : Luís Guilherme Gomes Ferreira Rossi
+Scrum Master: Marcos Vinícius De Lima Silva e Bruno Eduardo da Silva.
+Product Backlog: Lucas Dalavale Fabretti.
 
 ### Processo
 
