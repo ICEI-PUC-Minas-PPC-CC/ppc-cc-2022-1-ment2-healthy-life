@@ -18,4 +18,4 @@ Nós escolhemos esse projeto pelo motivo de que mais de 65% dos brasileiros sofr
 
 ## Público-Alvo
 
-Nosso publico alvo são pessoas de todas as idades que sofrem de insonia, porém dados dizem que insônia é mais comum nas mulheres. Acredita-se que a mulher tenha predisposição genética a esse distúrbio. A insônia afeta mais de 65% dos brasileiros.
+Nosso publico alvo são pessoas de todas as idades que sofrem de insonia, porém dados dizem que insônia é mais comum nas mulheres. Acredita-se que a mulher tenha predisposição genética a esse distúrbio. A insônia afeta mais de 65% dos brasileiros e cerca de 45% da população mundial.
