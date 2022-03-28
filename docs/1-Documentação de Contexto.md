@@ -1,6 +1,6 @@
 # Introdução
 
-Nesse projeto criaremos um aplicativo para ajudar as pessoas a se conscientizarem sobre a importancia do sono para uma vida mais saudavel, nosso objetivo é melhorar a qualidade de vida de pessoas de todas as idades que sofrem com insônia e não conseguem dormir bem. Abordaremos os problemas causados pela falta do sono e o objetivo de resolução do nosso projeto, por meio de um site que ajudara as pessoas.
+Nesse projeto criaremos um site para ajudar as pessoas a se conscientizarem sobre a importancia do sono para uma vida mais saudavel, nosso objetivo é melhorar a qualidade de vida de pessoas de todas as idades que sofrem com insônia e não conseguem dormir bem. Abordaremos os problemas causados pela falta do sono e o objetivo de resolução do nosso projeto, por meio de um site que ajudara as pessoas.
 
 ## Problema
 
