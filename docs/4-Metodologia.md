@@ -53,6 +53,8 @@ Product Backlog: Lucas Dalavale Fabretti.
 
 ### Processo
 
+O processo da divisão das funções foi feita pensando nas qualidades técnicas de cada integrante, o Product Owner é o integrante que representa a equipe, fazendo a ponte entre área comercial para o desenvolvimento do projeto, além disso ele também garante a continuação do projeto, analisando os benefícios e malefícios. O Scrum Master é o integrante que mantém a equipe ativa, orientando os demais integrantes caso tenha algum problema, tem uma função de 'coach'. O Product Backlog é o integrante responsável pela aplicaçãqo prática do projeto, tirando a ideia do papel e colocando em desenvolvimento em um Website ou em um aplicativo ou de alguma outra forma.
+
 Coloque  informações sobre detalhes da implementação do Scrum seguido pelo grupo. O grupo poderá fazer uso de ferramentas on-line para acompanhar o andamento do projeto, a execução das tarefas e o status de desenvolvimento da solução.
  
 > **Links Úteis**:
