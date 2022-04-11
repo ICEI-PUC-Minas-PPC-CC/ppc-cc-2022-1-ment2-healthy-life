@@ -3,7 +3,7 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
-A metodologia do grupo para atacar o problema será toda feita em um site, que visa auxiliar pessoas com problema de insonia, a se conscientizarem e se informarem sobre metodos para melhorarem a qualidade do seu sono, a equipe atualmente se reune pelas ferramentas de comunicação, discord e whatsapp, para discutir ideias e separar os temas em que cada um vai focar. Para criação do nosso site utilizaremos 
+A metodologia do grupo para atacar o problema será toda feita em um site, que visa auxiliar pessoas com problema de insonia, a se conscientizarem e se informarem sobre metodos para melhorarem a qualidade do seu sono, a equipe atualmente se reune pelas ferramentas de comunicação, discord e whatsapp, para discutir ideias e separar os temas em que cada um vai focar. O protótipo do site está sendo criada no Figma e o site será criado no Wordpress.   
 
 
 ## Controle de Versão
