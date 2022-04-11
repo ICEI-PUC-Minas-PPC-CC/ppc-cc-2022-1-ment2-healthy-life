@@ -3,9 +3,8 @@
 
 <span style="color:red">Pré-requisitos: <a href="2-Especificação do Projeto.md"> Documentação de Especificação</a></span>
 
-A metodologia do grupo para atacar o problema será toda feita em um site, que visa auxiliar pessoas com problema de insonia, a se conscientizarem e se informarem sobre metodos para melhorarem a qualidade do seu sono, a equipe atualmente se reune pelas ferramentas de comunicação, discord e whatsapp, para discutir ideias e separar os temas em que cada um vai focar. Para criação do nosso site utilizaremos
+A metodologia do grupo para atacar o problema será toda feita em um site, que visa auxiliar pessoas com problema de insonia, a se conscientizarem e se informarem sobre metodos para melhorarem a qualidade do seu sono, a equipe atualmente se reune pelas ferramentas de comunicação, discord e whatsapp, para discutir ideias e separar os temas em que cada um vai focar. Para criação do nosso site utilizaremos 
 
-(provisorio) Descreva aqui a metodologia de trabalho do grupo para atacar o problema. Definições sobre os ambiente de trabalho utilizados pela  equipe para desenvolver o projeto. Abrange a relação de ambientes utilizados, a estrutura para gestão do código fonte, além da definição do processo e ferramenta através dos quais a equipe se organiza (Gestão de Times).
 
 ## Controle de Versão
 
